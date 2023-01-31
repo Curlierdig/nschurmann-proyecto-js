@@ -1,7 +1,8 @@
 const fn = () => {
-    const miString = "string de prueba"
-    let b = `${miString}XD`
+    const miString = "Soy un string"
+    let b = `${miString} very happy`
     console.log(b)
+    clg
 }
 
 fn()
